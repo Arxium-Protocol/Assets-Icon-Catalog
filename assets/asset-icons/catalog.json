@@ -1,0 +1,5 @@
+[
+  { "id": "asset-generic", "name": "General asset", "file": "asset-generic.svg" },
+  { "id": "asset-property", "name": "Property", "file": "asset-property.svg" },
+  { "id": "asset-commodity", "name": "Commodity", "file": "asset-commodity.svg" }
+]
