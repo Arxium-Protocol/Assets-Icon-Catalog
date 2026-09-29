@@ -1,4 +1,5 @@
 [
+  { "id": "arx", "name": "Arxium", "symbol": "ARX", "file": "arx.png" },
   { "id": "bitcoin", "name": "Bitcoin", "symbol": "BTC", "file": "bitcoin.png" },
   { "id": "ethereum", "name": "Ethereum", "symbol": "ETH", "file": "ethereum.png" },
   { "id": "solana", "name": "Solana", "symbol": "SOL", "file": "solana.png" },
