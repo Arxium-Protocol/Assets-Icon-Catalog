@@ -1,12 +1,12 @@
 [
-  { "id": "bitcoin", "name": "Bitcoin", "symbol": "BTC", "file": "bitcoin.svg" },
-  { "id": "ethereum", "name": "Ethereum", "symbol": "ETH", "file": "ethereum.svg" },
-  { "id": "solana", "name": "Solana", "symbol": "SOL", "file": "solana.svg" },
-  { "id": "tether", "name": "Tether", "symbol": "USDT", "file": "tether.svg" },
-  { "id": "dogecoin", "name": "Dogecoin", "symbol": "DOGE", "file": "dogecoin.svg" },
-  { "id": "litecoin", "name": "Litecoin", "symbol": "LTC", "file": "litecoin.svg" },
-  { "id": "chainlink", "name": "Chainlink", "symbol": "LINK", "file": "chainlink.svg" },
-  { "id": "polygon", "name": "Polygon", "symbol": "POL", "file": "polygon.svg" },
-  { "id": "polkadot", "name": "Polkadot", "symbol": "DOT", "file": "polkadot.svg" },
-  { "id": "monero", "name": "Monero", "symbol": "XMR", "file": "monero.svg" }
+  { "id": "bitcoin", "name": "Bitcoin", "symbol": "BTC", "file": "bitcoin.png" },
+  { "id": "ethereum", "name": "Ethereum", "symbol": "ETH", "file": "ethereum.png" },
+  { "id": "solana", "name": "Solana", "symbol": "SOL", "file": "solana.png" },
+  { "id": "tether", "name": "Tether", "symbol": "USDT", "file": "tether.png" },
+  { "id": "dogecoin", "name": "Dogecoin", "symbol": "DOGE", "file": "dogecoin.png" },
+  { "id": "litecoin", "name": "Litecoin", "symbol": "LTC", "file": "litecoin.png" },
+  { "id": "chainlink", "name": "Chainlink", "symbol": "LINK", "file": "chainlink.png" },
+  { "id": "polygon", "name": "Polygon", "symbol": "POL", "file": "polygon.png" },
+  { "id": "polkadot", "name": "Polkadot", "symbol": "DOT", "file": "polkadot.png" },
+  { "id": "monero", "name": "Monero", "symbol": "XMR", "file": "monero.png" }
 ]

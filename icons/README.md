@@ -1,7 +1,7 @@
 # Asset-reference icons
 
-Add `<asset-reference>.svg` here after registering an asset, for example:
+Add `<asset-reference>.png` here after registering an asset, for example:
 
-`icons/arxasset1z8d4jt8yt0xtjm6lvk8umc9relegrwq4xu928eqxyjfcsnjuex6qe873qa.svg`
+`icons/arxasset1z8d4jt8yt0xtjm6lvk8umc9relegrwq4xu928eqxyjfcsnjuex6qe873qa.png`
 
-The reference is the complete lowercase `arxasset1…` value returned by the chain. Keep files self-contained static SVGs; do not use remote images, scripts, or private URLs. Once the pull request is merged and the public CDN serves the file, existing asset views pick it up after their missing-icon cache expires or the page is refreshed.
+The reference is the complete lowercase `arxasset1…` value returned by the chain. Use square PNG images with at least 128 × 128 pixels. Do not add the reference to PNG metadata. Once the pull request is merged and GitHub raw serves the file, clients pick it up at their next ten-minute refresh, subject to the host's HTTP cache.
